@@ -13,3 +13,5 @@ Make Requirements.txt File
 *It is Usefull For the Linear Data*
 
 ## To Solve this Problem We Use ANN
+
+ANN we also call it as a Multi Layer Preceptron.
